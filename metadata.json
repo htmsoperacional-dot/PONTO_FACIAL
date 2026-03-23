@@ -1,0 +1,7 @@
+{
+  "name": "Ponto IA - Registro Inteligente",
+  "description": "Sistema de ponto eletrônico com reconhecimento facial via IA e registro automatizado de jornadas diárias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
